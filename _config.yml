@@ -1,6 +1,6 @@
 title: Today I Learned
 tagline: A blog dedicated to small knowledge snippets I learn every day.
-url: reegnz.github.com/til
+url: https://reegnz.github.com/til
 
 show_excerpts: true
 
@@ -14,5 +14,6 @@ minima:
   date_format: %FT%R
 
 plugins:
+- jemoji
 - jekyll-feed
 - jekyll-seo-tag
