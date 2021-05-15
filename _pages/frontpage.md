@@ -1,6 +1,6 @@
 ---
 permalink: /
 layout: home
-title: Today I Learned
+title: A list of things that I learned
 list_title: Blog posts
 ---

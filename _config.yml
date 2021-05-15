@@ -16,7 +16,6 @@ minima:
   date_format: "%Y-%m-%d %H:%S"
 
 header_pages:
-- _pages/frontpage.md
 - _pages/about.md
 - _pages/archive.md
 
