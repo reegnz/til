@@ -1,8 +1,7 @@
 title: Today I Learned
 tagline: A blog dedicated to small knowledge snippets I learn every day.
+author: Zoltán Reegn
 url: https://reegnz.github.com/til
-
-show_excerpts: true
 
 social_links:
   twitter: zoltanreegn
@@ -10,6 +9,24 @@ social_links:
   keybase: reegnz
 
 theme: minima
+
+show_excerpts: true
+
+minima:
+  date_format: "%Y-%m-%d %H:%S"
+
+header_pages:
+- _pages/frontpage.md
+- _pages/about.md
+- _pages/archive.md
+
+include:
+- _pages
+
+exclude:
+- .gitignore
+- README.md
+- LICENSE
 
 plugins:
 - jemoji
