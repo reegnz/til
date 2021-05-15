@@ -10,8 +10,6 @@ social_links:
   keybase: reegnz
 
 theme: minima
-minima:
-  date_format: %FT%R
 
 plugins:
 - jemoji
