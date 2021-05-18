@@ -1,7 +1,7 @@
 ---
 title: GitHub ssh key fingerprint
 layout: post
-date: 2021-05-16 00:20:00 +0200
+date: 2021-05-18 13:26:00 +0200
 tags: [ssh, git, github, cli]
 ---
 Github shows a hash when you add an ssh key. This can be cross-checked with the cli.
